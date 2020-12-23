@@ -1,0 +1,346 @@
+/*block1*//* after_qbici */
+.b1 {
+    padding: 0;
+    background: #e8e8e8;
+}
+.tlt {
+    text-align: center;
+    padding: 10px 0 12px;
+}
+.tlt h1 {
+    font-size: 28px;
+}
+.tlt h1 span {
+    color:#eaa938;
+}
+.tlt h2 {
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.offer {
+    background: url(../img/b1.jpg) no-repeat center top;
+    height: 385px;
+    color:#fff;
+}
+.offer ul {
+    font-size: 0;
+    padding: 15px 20px 0;
+}
+.offer ul li {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    display: inline-block;
+    width: 50%;
+}
+.offer ul li:last-child {
+    text-align: right;
+}
+.gift {
+    font-size: 16px;
+    line-height: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: right;
+    padding: 73px 20px 0 0;
+}
+.pr {
+    background: #e8e8e8;
+    position: relative;
+    padding-top: 125px;
+}
+.sale {
+    text-transform: uppercase;
+    font-size: 14px;
+    text-align: center;
+    width: 90px;
+    position: absolute;
+    top:49px;
+    left: 50%;
+    margin-left: -45px;
+}
+.sale p {
+    font-size: 30px;
+    font-weight: 800;
+}
+.count-tlt {
+    text-align: center;
+    font-size: 14px;
+    padding: 7px 0 15px;
+}
+.pr a.button-m {
+    margin: 0 auto -38px;
+}
+.stock {
+    text-align: center;
+    padding: 60px 0 35px;
+    background: #dfddde;
+    position: relative;
+}
+.stock span {
+    display: inline-block;
+    background: #eaa938;
+    color:#fff;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    margin: 0 5px;
+    padding: 4px 8px;
+}
+/*block2*//* endzeit_____ */
+.b2 {
+    padding: 0;
+    
+}
+.b2 img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+/*block3*//* michael-k90 */
+.b3 {
+    background: #1d1c21;
+    color:#fff;
+    padding-bottom: 20px;
+}
+.b3 h2.title > span {
+    background: #1d1c21;
+}
+.b3 h2.title,
+.b5 h2.title {
+    background: url(../img/gray.png) no-repeat right 46px;
+}
+.helper {
+    font-size: 0;
+}
+.helper li {
+    font-size: 16px;
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+}
+.helper img {
+    display: block;
+    margin: 0 auto 10px;
+    border-radius: 100px 100px 100px 0;
+}
+.helper b {
+    display: inline-block;
+    color:#eaa938;
+    padding: 0 0 0 20px;
+}
+.helper p {
+    padding: 0 20px 20px;
+    font-size: 14px;
+}
+/*block4*//* bizlife_inc */
+.b4 {
+   padding-bottom: 0px;
+}
+/*block5*//* owmen17 */
+.b5 {
+    background:url(../img/b2.jpg) no-repeat center top / cover;
+    color:#fff;
+    padding: 60px 0 10px;
+}
+.b5 h2.title > span {
+    background: #1f1f21;
+}
+.features {
+    font-size: 0;
+}
+.features li {
+    display: block;
+    font-size: 16px;
+    padding: 0 20px 20px 50px;
+    background: url(../img/check.png) no-repeat 22px 6px;
+}
+.features p {
+    display: inline-block;
+    padding-bottom: 15px;
+}
+.features li:not(:last-child) p {
+     border-bottom: 1px dashed #636364;
+}
+/*block6*//* after_qbici */
+.b6 {
+    background: #1f1f21;
+    color:#fff;
+    padding-bottom: 40px;
+}
+
+.b6 h2.title.col2 > span {
+    background: #1f1f21;
+}
+.tabs__content p {
+    font-size: 24px;
+    text-align: center;
+}
+.tabs__content p span {
+    color:#e0a237;
+    font-weight: 700;
+}
+.tabs__content img {
+    display: block;
+    margin: -25px auto -20px;
+}
+/*block7*//* endzeit_____ */
+.b7 {
+   padding-bottom: 0;
+}
+.b4 .button-m,
+.b7 .button-m {
+    margin-bottom: -36px;
+}
+.b7 h2 {
+    padding: 0 0 10px 20px;
+}
+.shadow {
+    display: block;
+    margin-bottom: 10px;
+}
+.char {
+    font-size: 0;
+    margin-bottom: 20px;
+}
+.char li {
+    font-size: 16px;
+    display: block;
+    padding: 0 20px 10px;
+}
+.char li:before {
+    content:'';
+    display: block;
+    width: 8px;
+    height: 8px;
+    background: #ef6868;
+    border-radius: 50%;
+    border:3px solid rgba(234,56,56,.2);
+    background-clip: padding-box;
+    float: left;
+    margin: 4px 10px 0 0;
+}
+.char p {
+    text-align: right;
+    overflow: hidden;
+}
+.char b {
+    float: left;
+}
+/*block8*//* michael-k90 */
+.b8 {
+    background: #1d1c21;
+    color:#fff;
+    padding: 60px 0 10px;
+}
+
+.b8 h2.title > span {
+    background: #1d1c21;
+}
+.b8 h2.title {
+    background: url(../img/white.png) no-repeat right 46px;
+}
+.b8 .char li:before {
+    background: #b98732;
+    border: 3px solid rgba(234,169,56,.2);
+    background-clip: padding-box;
+}
+.b8 .char li p {
+    border-bottom: 1px solid #c5c5c6;
+}
+/*block9*//* bizlife_inc */
+.rev {
+    background: #f8f8f8;
+    width: 440px;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 23px 20px 20px;
+}
+.rev img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 7px;
+}
+.rev h3 {
+    font-size: 16px;
+    text-transform: none;
+    text-align: center;
+    padding: 20px 0;
+}
+.rev h3:after {
+    content:'';
+    display: block;
+    background: url(../img/stars.png) no-repeat center top;
+    width: 100%;
+    height: 16px;
+    margin: 6px 0 0;
+}
+.rev p {
+    text-align: justify;
+}
+/*block10*//* owmen17 */
+.b10 {
+    background: #1d1c21;
+    color:#fff;
+}
+.b10 h2.title.col2 > span {
+    background: #1d1c21;
+}
+.b10 h2.title {
+    background: url(../img/gray.png) no-repeat right 46px;
+}
+.ship {
+    padding: 0 20px;
+}
+.ship li {
+    position: relative;
+    display: table;
+    height: 170px;
+}
+.ship li img {
+    display: block;
+    position: absolute;
+    top:0;
+    left: 0;
+    border-radius: 85px 85px 85px 0;
+}
+.ship div {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 0 0 0 190px;
+}
+.ship div h3 {
+    font-size: 16px;
+    text-transform: none;
+    font-weight: 800;
+    margin-bottom: 5px;
+    color:#eaa938;
+}
+.ship div p {
+    font-size: 14px;
+    color:#e2e0e1;
+}
+.ship li:nth-child(even) img {
+    left: inherit;
+    right: 0;
+}
+.ship li:nth-child(even) div {
+    padding: 0 190px 0 0;
+}
+.ship li:nth-child(even) p, .ship li:nth-child(even) h3 {
+    text-align: right;
+}
+
+
+.footer {
+    text-align: center;
+    padding: 40px 0 30px;
+    background: #e8e8e8;
+}
+.footer a {
+    font-size: 14px;
+    color:#333;
+    display: block;
+    padding: 5px 0 0;
+}
